@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning to forecast time-series model
+Machine Learning to forecast time-series model and comparing days/week plots
 
 This purpose of this project is to use ARIMA ('Auto Regressive Integrated Moving Average) for timeseries forecasting sales and the data for this project was taken from kaggle.
 I am the sole contributor for this project and here goes my approach to this problem:
@@ -17,5 +17,7 @@ From stationarity and from null hypothesis testing we see that data is almost st
 
 The predicted model has a mean squared error of 88 and the plot shows that prediction looks quite similar to original.
 
+4) Comparison
+The smoothing method can average for month or a week. The plots show a better fir (smaller MSE) for week mainly due to larger number of data points.
 
 
