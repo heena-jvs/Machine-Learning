@@ -1,6 +1,8 @@
 # Machine-Learning
-Machine Learning to forecast time-series model and comparing days/week plots
+Machine Learning to forecast time-series model 
+Group project is regarding prediction of food bank supplies (real data ) and individual project is about sales forecast for a pharma company(from kaggle).
 
+EXPLAINING INDIVIDUAL PROJECT IN GREATER DETAILS:
 This purpose of this project is to use ARIMA ('Auto Regressive Integrated Moving Average) for timeseries forecasting sales and the data for this project was taken from kaggle.
 I am the sole contributor for this project and here goes my approach to this problem:
 
