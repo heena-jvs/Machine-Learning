@@ -4,7 +4,7 @@ Group project is regarding prediction of food bank supplies (real data ) and ind
 
 EXPLAINING INDIVIDUAL PROJECT IN GREATER DETAILS:
 This purpose of this project is to use ARIMA ('Auto Regressive Integrated Moving Average) for timeseries forecasting sales and the data for this project was taken from kaggle.
-I am the sole contributor for this project and here goes my approach to this problem:
+Here goes my approach to this problem:
 
 1)Data Cleaning, Preprocessing
 The table contains individual drugs sold per day. For this project I use total sales and the dataset I will be deadline with will be dates and total sales of all drugs on that particular day. Outliers are removed using Interquartile range and the data is smoothened using moving average.
